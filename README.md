@@ -1,2 +1,1 @@
-# iust-c-questions
-iust c projects
+# c projects
